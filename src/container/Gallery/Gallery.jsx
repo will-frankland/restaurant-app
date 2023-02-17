@@ -5,10 +5,13 @@ import { images } from '../../constants';
 
 import './Gallery.css';
 
-const Gallery = () => (
-  <div>
-    Gallery
-  </div>
-);
+const Gallery = () => {
+
+  return (
+    <div>
+      Gallery
+    </div>
+  )
+};
 
 export default Gallery;
