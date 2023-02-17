@@ -17,14 +17,14 @@ const wines = [
     tags: 'FR | 750 ml',
   },
   {
-    title: 'Rhino Pale Ale',
-    price: '$31',
-    tags: 'CA | 750 ml',
+    title: 'Peroni',
+    price: '$8',
+    tags: 'IT | 330 ml',
   },
   {
-    title: 'Irish Guinness',
-    price: '$26',
-    tags: 'IE | 750 ml',
+    title: 'Guinness',
+    price: '$13',
+    tags: 'IE | 500 ml',
   },
 ];
 
