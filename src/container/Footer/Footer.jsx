@@ -21,6 +21,11 @@ const Footer = () => (
         <img src={images.gericht} alt="footer_logo"/>
         <p className='p__opensans'>"The best way to find yourself is to lose yourself in the service of others.”</p>
         <img src={images.spoon} alt="spoon" className='spoon__img' style={{ marginTop: 15 }}/>
+        <div className='app__footer-links_icons'>
+          <FiFacebook />
+          <FiTwitter />
+          <FiInstagram />
+        </div>
       </div>
       <div className='app__footer-links_work'>
 
