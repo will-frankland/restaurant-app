@@ -31,9 +31,9 @@ https://fine-dining-app.netlify.app/#awards
 
 !["Screenshot of Homepage"](https://github.com/will-frankland/restaurant-app/blob/main/docs/restaurant-home.png?raw=true)
 ###
-!["Screenshot of Mobile View on iPhone 12 Pro"](https://github.com/will-frankland/restaurant-app/blob/main/docs/restaurant-mobile.png?raw=true)
-###
 !["Screenshot of Restaurant Gallery"](https://github.com/will-frankland/restaurant-app/blob/main/docs/restaurant-photos.png?raw=true)
+###
+!["Screenshot of Mobile View on iPhone 12 Pro"](https://github.com/will-frankland/restaurant-app/blob/main/docs/restaurant-mobile.png?raw=true)
 
 ## Dependencies
 
