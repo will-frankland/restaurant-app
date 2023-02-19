@@ -29,7 +29,9 @@ The admin-dashboard has been deployed on Netlify can be viewed here:
 ## Screenshots
 
 !["Screenshot of Homepage"](https://github.com/will-frankland/restaurant-app/blob/main/docs/restaurant-home.png?raw=true)
+###
 !["Screenshot of Mobile View on iPhone 12 Pro"](https://github.com/will-frankland/restaurant-app/blob/main/docs/restaurant-mobile.png?raw=true)
+###
 !["Screenshot of Restaurant Gallery"](https://github.com/will-frankland/restaurant-app/blob/main/docs/restaurant-photos.png?raw=true)
 
 ## Dependencies
