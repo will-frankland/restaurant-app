@@ -18,6 +18,7 @@ There are additional features such as registration, table booking and the abilit
 
 The admin-dashboard has been deployed on Netlify can be viewed here:
 
+https://fine-dining-app.netlify.app/#awards
 
 ## Tech Stack
 
